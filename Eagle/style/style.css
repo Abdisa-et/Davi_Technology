@@ -1,0 +1,85 @@
+.logo {
+  width: 80px;
+  padding: 8px 0 0 5%;
+  clear: left;
+}
+nav {
+  font-family: "Century Gothic";
+  font-weight: 400;
+  padding: 10px;
+  border-bottom: 3px solid #076fa6;
+}
+
+.stock {
+  font-size: 20px;
+  color: #076fa6;
+  text-decoration: none;
+  float: right;
+  margin-top: 10px;
+}
+.stock:hover {
+  border-bottom: 2px #076fa6 solid;
+}
+.about {
+  float: right;
+  color: #076fa6;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 10px 50px 0 20px;
+}
+.about:hover {
+  border-bottom: 2px #076fa6 solid;
+}
+.home {
+  float: right;
+  color: #076fa6;
+  text-decoration: none;
+  border-bottom: 2px #076fa6 solid;
+  font-size: 20px;
+  margin: 10px 30px 0 20px;
+}
+
+.slogan {
+  color: #076fa6;
+  font-family: "Century Gothic";
+  clear: left;
+}
+.first {
+  font-weight: bolder;
+  margin: 5% 0 0 5%;
+  font-size: 70px;
+  line-height: 1.1;
+  width: 60%;
+}
+.second {
+  font-size: 35px;
+  line-height: 1.2;
+  margin: 0 5%;
+  width: 60%;
+}
+.delivery_img {
+  float: right;
+  width: 40%;
+  margin: 0 4% 10% 0;
+}
+.shop_btn {
+  font-family: "Century Gothic";
+  font-weight: bolder;
+  margin: 5% 0 0 5%;
+  padding: 10px 25px;
+  text-decoration: none;
+  border-radius: 8px;
+  background-color: #e7e72f;
+  color: #076fa6;
+}
+.btn {
+  margin-top: 3%;
+}
+/* .body_bg {
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position-y: center;
+  background-size: cover;
+  background-image: linear-gradient(rgba(190, 190, 190, 0.123), #333);
+} */
